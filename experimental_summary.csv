@@ -1,0 +1,6 @@
+Algorithm,Accuracy (%),Training Time (s),Memory Usage (MB)
+KNN,96.67,120,500
+SVM,97.91,180,800
+Random Forest,96.82,150,600
+CNN (TensorFlow),99.7,300,2000
+CNN (Keras),98.75,250,1500

@@ -1,0 +1,7 @@
+Metric,KNN,SVM,Random Forest,CNN (TensorFlow),CNN (Keras)
+Accuracy,96.67,97.91,96.82,99.7,98.75
+Precision,96.5,97.8,96.7,99.6,98.6
+Recall,96.7,97.9,96.8,99.7,98.7
+F1-Score,96.6,97.85,96.75,99.65,98.65
+Training Time,120.0,180.0,150.0,300.0,250.0
+Memory Usage,500.0,800.0,600.0,2000.0,1500.0
